@@ -43,6 +43,9 @@ O projeto simula uma loja virtual moderna com autenticação de usuários, carri
 
 ---
 
+## 🚀 Deploy
+<a href="https://lojazaptro.netlify.app/">https://lojazaptro.netlify.app/</a>
+
 ## ⚙️ Como rodar o projeto
 
 ### 1️⃣ Clone o repositório

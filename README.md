@@ -48,4 +48,4 @@ O projeto simula uma loja virtual moderna com autenticação de usuários, carri
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/zaptro.git
+git clone https://github.com/lucasb2b/zaptro.git
